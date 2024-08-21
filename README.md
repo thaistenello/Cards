@@ -6,7 +6,7 @@ CARDS
 
 ![preview-gif](https://github.com/user-attachments/assets/573839d4-3277-4b11-94cb-9a15e0a93827)
 
-<a href="https://explore-lyart.vercel.app/" target="_blank">
+<a href="https://cards-nine-gamma-30.vercel.app/" target="_blank">
     <img src="https://placehold.jp/ffffff/350x50.png?text=Visualize%20a%20Demonstra%C3%A7%C3%A3o&css=%7B%22border-radius%22%3A%2215px%22%2C%22background%22%3A%22%20-webkit-gradient(linear%2C%20left%20top%2C%20left%20bottom%2C%20from(%23dd5538)%2C%20to(%23eb5f5c))%22%7D">
 </a>
 
@@ -79,7 +79,7 @@ CARDS
 
 ![preview-gif](https://github.com/user-attachments/assets/573839d4-3277-4b11-94cb-9a15e0a93827)
 
-<a href="https://explore-lyart.vercel.app/" target="_blank">
+<a href="https://cards-nine-gamma-30.vercel.app/" target="_blank">
     <img src="https://placehold.jp/ffffff/350x50.png?text=View%20Demo&css=%7B%22border-radius%22%3A%2215px%22%2C%22background%22%3A%22%20-webkit-gradient(linear%2C%20left%20top%2C%20left%20bottom%2C%20from(%23dd5538)%2C%20to(%23eb5f5c))%22%7D">
 </a>
 
