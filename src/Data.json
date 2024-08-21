@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Ancient Greece",
+        "des": "Temple of Apollo - Delphi",
+        "img": "/img/delfos.jpg",
+        "alt": "Temple of Apollo",
+        "link": "https://en.wikipedia.org/wiki/Ancient_Greece"
+    },
+    {
+        "id": 2,
+        "title": "Qin Dynasty",
+        "des": "Terracotta Army - Shaanxi",
+        "img": "/img/terracottaA.jpg",
+        "alt": "Terracotta Army",
+        "link": "https://en.wikipedia.org/wiki/Qin_dynasty"
+    },
+    {
+        "id": 3,
+        "title": "Ancient Egypt",
+        "des": "Pyramids and Sphinx - Giza",
+        "img": "/img/egipt.jpg",
+        "alt": "Pyramids and Sphinx",
+        "link": "https://en.wikipedia.org/wiki/Ancient_Egypt"
+    }
+
+]
