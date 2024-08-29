@@ -14,7 +14,7 @@ export const App = () => {
           <Grid container spacing={7}>
             {Data.map((result, index) => {
               return (
-                <Grid item xs={12} md={4} sm={4} key={index}>
+                <Grid item xs={12} sm={6} md={4} lg={4} key={index}>
                   <Card className="cards"
                   sx={{ 
                     borderRadius: '1vw',
