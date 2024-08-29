@@ -12,15 +12,14 @@ const baseTheme = createTheme({
     typography: {
         fontFamily: 'Roboto, sans-serif',
         allVariants: {
-            fontSize: '22px',
+            fontSize: '1.3rem',
             fontWeight: 300,
-            // lineHeight: '1',
+            lineHeight: 'auto',
             color: '#B3B3B3'
         },
 
         h1: {
-            fontSize: '38px',
-            lineHeight: '.5',
+            fontSize: '2.3rem',
             color: '#F2F2F2'
         }
     },
